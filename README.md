@@ -1,3 +1,12 @@
+## PROJECT LINKS DIRECTORY
+
+**Student:** Anmol Singh
+
+**College:** ABES Engineering College, Ghaziabad
+
+**Department:** Mechanical Engineering
+
+---
 # AI-Driven Digital Twin for Smart Factory Operations
 
 A virtual smart factory platform simulating industrial equipment and production operations in real time with end-to-end telemetry streaming, AI/ML-driven anomaly detection, multi-dimensional operational risk scoring, digital twin state management, and an interactive FastAPI modern web visualizer dashboard.
