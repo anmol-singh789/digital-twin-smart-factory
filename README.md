@@ -1,8 +1,9 @@
 PROJECT LINKS DIRECTORY
 
-Student: Anmol Singh
-College: ABES Engineering College, Ghaziabad
-Department: Mechanical Engineering
+**Student:** Anmol Singh  
+**GitHub Username:** [@anmol-singh789](https://github.com/anmol-singh789)  
+**College:** ABES Engineering College, Ghaziabad  
+**Department:** Mechanical Engineering
 
 1. GitHub Repository
 
@@ -25,13 +26,6 @@ Department: Mechanical Engineering
 "View Project SRS PDF" (AI_Driven_Digital_Twin_Smart_Factory_SRS_Anmol_Singh.pdf)
 
 ## PROJECT LINKS DIRECTORY
-
-**Student:** Anmol Singh
-
-**College:** ABES Engineering College, Ghaziabad
-
-**Department:** Mechanical Engineering
-
 ---
 # AI-Driven Digital Twin for Smart Factory Operations
 
