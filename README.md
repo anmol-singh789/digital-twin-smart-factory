@@ -159,4 +159,13 @@ Live monitoring of CNC Milling, Hydraulic Stamping Press, and Robotic Welding ma
 Real-time temperature and vibration waveforms with AI-driven machine health trend analysis.
 
 <img width="100%" alt="AI Machine Analytics and Telemetry" src="https://github.com/user-attachments/assets/85439c98-0dd0-44a2-84de-544780ab78bd" />
+---
+
+## 🔗 Project Links
+
+- 🌐 **Live Demo:** [Digital Twin Smart Factory](https://digitaltwin-smartfactory-1.onrender.com/)
+- 💻 **Source Code:** [GitHub Repository](https://github.com/90265-maker/digital-twin-smart-factory)
+
+---
+**Developed as a Mechanical Engineering Project.**
 
