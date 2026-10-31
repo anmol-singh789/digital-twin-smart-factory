@@ -168,4 +168,13 @@ Real-time temperature and vibration waveforms with AI-driven machine health tren
 
 ---
 **Developed as a Mechanical Engineering Project.**
+---
 
+## 📚 Project Documentation
+
+### 1. SRS Documentation
+[View Software Requirements Specification (PDF)](./AI_Driven_Digital_Twin_Smart_Factory_SRS_Anmol_Singh.pdf)
+
+### 2. API Documentation
+- [Swagger UI](https://digitaltwin-smartfactory-1.onrender.com/docs)
+- [ReDoc API Reference](https://digitaltwin-smartfactory-1.onrender.com/redoc)
