@@ -6,7 +6,7 @@ Department: Mechanical Engineering
 
 1. GitHub Repository
 
-"Digital Twin – Smart Factory" (https://github.com/gabbersingh9818790265-maker/digital-twin-smart-factory)
+"Digital Twin – Smart Factory" (https://github.com/anmol-singh789/digital-twin-smart-factory)
 
 2. Live Smart Factory Dashboard
 
@@ -18,7 +18,7 @@ Department: Mechanical Engineering
 
 4. Project README
 
-"View Project README" (https://github.com/gabbersingh9818790265-maker/digital-twin-smart-factory/blob/main/README.md)
+"View Project README" (https://github.com/anmol-singh789/digital-twin-smart-factory/blob/main/README.md)
 
 5. Project Report / SRS
 
