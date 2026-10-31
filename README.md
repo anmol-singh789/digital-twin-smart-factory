@@ -1,3 +1,29 @@
+PROJECT LINKS DIRECTORY
+
+Student: Anmol Singh
+College: ABES Engineering College, Ghaziabad
+Department: Mechanical Engineering
+
+1. GitHub Repository
+
+"Digital Twin – Smart Factory" (https://github.com/gabbersingh9818790265-maker/digital-twin-smart-factory)
+
+2. Live Smart Factory Dashboard
+
+"Open Live Project" (https://digitaltwin-smartfactory-1.onrender.com/)
+
+3. API Documentation
+
+"Swagger API Documentation" (https://digitaltwin-smartfactory-1.onrender.com/docs)
+
+4. Project README
+
+"View Project README" (https://github.com/gabbersingh9818790265-maker/digital-twin-smart-factory/blob/main/README.md)
+
+5. Project Report / SRS
+
+"View Project SRS PDF" (AI_Driven_Digital_Twin_Smart_Factory_SRS_Anmol_Singh.pdf)
+
 ## PROJECT LINKS DIRECTORY
 
 **Student:** Anmol Singh
